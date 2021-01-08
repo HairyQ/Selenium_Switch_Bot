@@ -3,9 +3,9 @@
 ## No, we're not talking about silly network switches...
 We're talking Nintendo Switches here! 
 
-With the COVID pandemic still ongoing, factories that make essential parts / provide essential materials for the Nintendo Switch are operating at limited capacity, while millions are stuck at home over summer with nothing to do. 
+With the COVID pandemic still ongoing, factories that make essential parts / provide essential materials for the Nintendo Switch are(were) operating at limited capacity, while millions are stuck at home over summer with nothing to do. 
 
-Ultimately, this has created a severe shortage in Nintendo Switch consoles - online and in-store retailers sell out within minutes as people flood stores and bots flood the online market. Bots were (are) being used to purchase as many consoles at a time as possible, so their creators can sell them at nearly double price on Amazon and eBay. 
+Ultimately, this has created a severe shortage in Nintendo Switch consoles - online and in-store retailers sell out within minutes as people flood stores and bots flood the online market. Bots were(are) being used to purchase as many consoles at a time as possible, so their creators can sell them at nearly double price on Amazon and eBay. 
 
 The competition is ruthless, but my own bot has a much simpler, much more innocent goal: To purchase a single Nintendo Switch console for myself. Once this task is completed (or something weird goes wrong...), the bot closes itself and stops executing.
 
